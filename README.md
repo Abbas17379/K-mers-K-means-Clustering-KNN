@@ -1,0 +1,1 @@
+Engineered high-accuracy protein classification models using spectrum and mismatch kernels, optimizing SVM-based sequence representation for enhanced similarity detection. Developed ML pipelines for K-means clustering & KNN, leveraging custom string kernels on large genomic datasets for high-precision exon-intron classification of over 3000 genomic sequences.
